@@ -1,0 +1,131 @@
+{
+    "curso": "Engenharia Informática",
+    "ano": 2,
+    "semestres": [
+      {
+        "semestre": 1,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC201",
+            "nome": "Administração de Sistemas",
+            "docentes": [
+              {
+                "nome": "TP Jorge Simões:",
+                "email": "jorgesimoes@estg.ipvc.pt"
+              },
+              {
+                "nome": "PL Hugo Almeida",
+                "email": "ana.martins@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC202",
+            "nome": "Algoritmos e Estruturas de Dados",
+            "docentes": [
+              {
+                "nome": "Prof. Pedro Sousa",
+                "email": "pedro.sousa@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC203",
+            "nome": "Engenharia de Software",
+            "docentes": [
+              {
+                "nome": "Prof. Maria Ferreira",
+                "email": "maria.ferreira@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC204",
+            "nome": "Sistemas Operativos",
+            "docentes": [
+              {
+                "nome": "Prof. Ricardo Almeida",
+                "email": "ricardo.almeida@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC205",
+            "nome": "Redes de Computadores",
+            "docentes": [
+              {
+                "nome": "Prof. Carlos Oliveira",
+                "email": "carlos.oliveira@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC206",
+            "nome": "Matemática Discreta",
+            "docentes": [
+              {
+                "nome": "Prof. Catarina Lopes",
+                "email": "catarina.lopes@ipvc.pt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "semestre": 2,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC207",
+            "nome": "Bases de Dados",
+            "docentes": [
+              {
+                "nome": "Prof. Carlos Pereira",
+                "email": "carlos.pereira@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC208",
+            "nome": "Inteligência Artificial",
+            "docentes": [
+              {
+                "nome": "Prof. Sofia Santos",
+                "email": "sofia.santos@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC209",
+            "nome": "Segurança Informática",
+            "docentes": [
+              {
+                "nome": "Prof. Luís Mendes",
+                "email": "luis.mendes@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC210",
+            "nome": "Desenvolvimento de Aplicações Móveis",
+            "docentes": [
+              {
+                "nome": "Prof. Beatriz Costa",
+                "email": "beatriz.costa@ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC211",
+            "nome": "Gestão de Projetos",
+            "docentes": [
+              {
+                "nome": "Prof. Miguel Ribeiro",
+                "email": "miguel.ribeiro@ipvc.pt"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

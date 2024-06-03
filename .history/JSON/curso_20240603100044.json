@@ -1,0 +1,171 @@
+{
+    "curso": "Engenharia Informática",
+    "ano": 2,
+    "semestres": [
+      {
+        "semestre": 1,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC201",
+            "nome": "Administração de Sistemas",
+            "docentes": [
+              {
+                "nome": "TP Jorge Simões:",
+                "email": "jorgesimoes@estg.ipvc.pt"
+              },
+              {
+                "nome": "PL Hugo Almeida",
+                "email": "halmeida@estg.ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC202",
+            "nome": "Redes e Serviços de Comunicação",
+            "docentes": [
+                {
+                  "nome": "Pedro Pinto TP",
+                  "email": "pedropinto@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Silvestre Malta PL",
+                  "email": "smalta@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC203",
+            "nome": "Base de Dados",
+            "docentes": [
+                {
+                  "nome": "Ricardo Freitas TP ",
+                  "email": "rifreitas@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Ricardo Freitas PL",
+                  "email": "rifreitas@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC204",
+            "nome": "Sistemas Embebidos",
+            "docentes": [
+                {
+                  "nome": "Carlos Abreu TP",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC205",
+            "nome": "Redes de Computadores",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC206",
+            "nome": "Matemática Discreta",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+            
+      },
+        
+      {
+        "semestre": 2,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC207",
+            "nome": "Análise e Processamento de Sinal",
+            "docentes": [
+                {
+                  "nome": "TP Sérgio Ivan Lopes",
+                  "email": "sil@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL João Faria",
+                  "email": "joao.pedro.faria@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC208",
+            "nome": "Inteligência Artificial",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC209",
+            "nome": "Segurança Informática",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC210",
+            "nome": "Desenvolvimento de Aplicações Móveis",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC211",
+            "nome": "Gestão de Projetos",
+            "docentes": [
+                {
+                  "nome": "TP Jorge Simões:",
+                  "email": "jorgesimoes@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL Hugo Almeida",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          }
+        ]
+      }
+    ]
+  }
+  

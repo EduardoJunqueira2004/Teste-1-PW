@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos de objetos DOM</title>
+</head>
+
+<body>
+    <div id="uniqueElement">Este é um elemento único.</div>
+    <p>Parágrafo 1</p>
+    <p>Parágrafo 2</p>
+    <div class="commonClass">Div com classe comum 1</div>
+    <div class="commonClass">Div com classe comum 2</div>
+
+    <script>
+        // Usando getElementById para obter um elemento pelo ID
+        const uniqueElement = document.getElementById('uniqueElement');
+        console.log(uniqueElement); // <div id="uniqueElement">Este é um elemento único.</div>
+
+        // Usando getElementsByTagName para obter todos os elementos de uma tag neste caso:<p>
+        const paragraphs = document.getElementsByTagName('p');
+        console.log(paragraphs); // HTMLCollection(2) [p, p]
+        console.log(paragraphs[0]); // <p>Parágrafo 1</p>
+
+        // Usando getElementsByClassName para obter todos os elementos de uma  classe  neste caso:'commonClass'
+        const commonElements = document.getElementsByClassName('commonClass');
+        console.log(commonElements); // HTMLCollection(2) [div.commonClass, div.commonClass]
+        console.log(commonElements[0]); // <div class="commonClass">Div com classe comum 1</div>
+    </script>
+</body>
+
+</html>

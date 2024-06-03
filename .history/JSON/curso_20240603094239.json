@@ -1,0 +1,50 @@
+{
+    "curso": "Engenharia de Redes e Sistemas de Computadores",
+    "unidadesCurriculares": [
+      {
+        "codigo": "UC001",
+        "nome": "Programação Web",
+        "ano": 2,
+        "semestre": 1,
+        "docentes": [
+          {
+            "nome": "Prof. João Silva",
+            "email": "joao.silva@ipvc.pt"
+          },
+          {
+            "nome": "Prof. Ana Martins",
+            "email": "ana.martins@ipvc.pt"
+          }
+        ]
+      },
+      {
+        "codigo": "UC002",
+        "nome": "Bases de Dados",
+        "ano": 2,
+        "semestre": 2,
+        "docentes": [
+          {
+            "nome": "Prof. Carlos Pereira",
+            "email": "carlos.pereira@ipvc.pt"
+          }
+        ]
+      },
+      {
+        "codigo": "UC003",
+        "nome": "Programação Web",
+        "ano": 2,
+        "semestre": 1,
+        "docentes": [
+          {
+            "nome": "Prof. João Silva",
+            "email": "joao.silva@ipvc.pt"
+          },
+          {
+            "nome": "Prof. Ana Martins",
+            "email": "ana.martins@ipvc.pt"
+          }
+        ]
+      }
+    ]
+  }
+  

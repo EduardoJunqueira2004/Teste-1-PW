@@ -1,0 +1,171 @@
+{
+    "curso": "Engenharia Informática",
+    "ano": 2,
+    "semestres": [
+      {
+        "semestre": 1,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC201",
+            "nome": "Administração de Sistemas",
+            "docentes": [
+              {
+                "nome": "TP Jorge Simões:",
+                "email": "jorgesimoes@estg.ipvc.pt"
+              },
+              {
+                "nome": "PL Hugo Almeida",
+                "email": "halmeida@estg.ipvc.pt"
+              }
+            ]
+          },
+          {
+            "codigo": "UC202",
+            "nome": "Redes e Serviços de Comunicação",
+            "docentes": [
+                {
+                  "nome": "Pedro Pinto TP",
+                  "email": "pedropinto@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Silvestre Malta PL",
+                  "email": "smalta@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC203",
+            "nome": "Base de Dados",
+            "docentes": [
+                {
+                  "nome": "Ricardo Freitas TP ",
+                  "email": "rifreitas@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Ricardo Freitas PL",
+                  "email": "rifreitas@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC204",
+            "nome": "Sistemas Embebidos",
+            "docentes": [
+                {
+                  "nome": "Carlos Abreu TP",
+                  "email": "joao.pedro.faria@estg.ipvc.pt"
+                },
+                {
+                  "nome": "João Faria PL",
+                  "email": "joao.pedro.faria@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC205",
+            "nome": "Investigação Operacional",
+            "docentes": [
+                {
+                  "nome": "José Miguel Gomes Costa Veiga TP",
+                  "email": "jmcveiga@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Quitéria Maria Cardoso Teixeira Mourão PL",
+                  "email": "jmcveiga@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC206",
+            "nome": "Programação 2",
+            "docentes": [
+                {
+                  "nome": "Pedro Miguel do Vale Malheiro Ramos Coutinho TP",
+                  "email": "p.coutinho@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Vasco Nuno Barreiro Capitão Miranda",
+                  "email": "vasco.miranda@estg.ipvc.pt"
+                }
+              ]
+            
+      },
+        
+      {
+        "semestre": 2,
+        "unidadesCurriculares": [
+          {
+            "codigo": "UC207",
+            "nome": "Análise e Processamento de Sinal",
+            "docentes": [
+                {
+                  "nome": "TP Sérgio Ivan Lopes",
+                  "email": "sil@estg.ipvc.pt"
+                },
+                {
+                  "nome": "PL João Faria",
+                  "email": "joao.pedro.faria@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC208",
+            "nome": "Tópicos Avançados de Redes",
+            "docentes": [
+                {
+                  "nome": "Pedro Pinto TP",
+                  "email": "pedropinto@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Silvestre Malta PL",
+                  "email": "smalta@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC209",
+            "nome": "Redes e Serviços Multimédia",
+            "docentes": [
+                {
+                  "nome": "Pedro Pinto TP",
+                  "email": "pedropinto@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Pedro Pinto PL",
+                  "email": "pedropinto@estg.ipvc.pt"
+                }
+              ]
+          },
+          {
+            "codigo": "UC210",
+            "nome": "Criptografia e Segurança nas Comunicações",
+            "docentes": [
+                {
+                  "nome": "Pedro Pinto TP",
+                  "email": "pedropinto@estg.ipvc.pt"
+                },
+                {
+                    "nome": "PL Hugo Almeida",
+                    "email": "halmeida@estg.ipvc.pt"
+                  }
+              ]
+          },
+          {
+            "codigo": "UC211",
+            "nome": "Programação Web",
+            "docentes": [
+                {
+                  "nome": "TP Marcelo Antunes Fernandes",
+                  "email": "fernandesmarcelo@estg.ipvc.pt"
+                },
+                {
+                  "nome": "Marcelo Antunes Fernandes PL1",
+                  "email": "halmeida@estg.ipvc.pt"
+                }
+              ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,168 @@
+<curso nome="Engenharia de Redes e Sistemas de Computadores " ano="2">
+  <semestres>
+    <semestre numero="1">
+      <unidadesCurriculares>
+        <unidadeCurricular>
+          <codigo>UC201</codigo>
+          <nome>Administração de Sistemas</nome>
+          <docentes>
+            <docente>
+              <nome>TP Jorge Simões</nome>
+              <email>jorgesimoes@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>PL Hugo Almeida</nome>
+              <email>halmeida@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC202</codigo>
+          <nome>Redes e Serviços de Comunicação</nome>
+          <docentes>
+            <docente>
+              <nome>Pedro Pinto TP</nome>
+              <email>pedropinto@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>Silvestre Malta PL</nome>
+              <email>smalta@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC203</codigo>
+          <nome>Base de Dados</nome>
+          <docentes>
+            <docente>
+              <nome>Ricardo Freitas TP</nome>
+              <email>rifreitas@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>Ricardo Freitas PL</nome>
+              <email>rifreitas@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC204</codigo>
+          <nome>Sistemas Embebidos</nome>
+          <docentes>
+            <docente>
+              <nome>Carlos Abreu TP</nome>
+              <email>joao.pedro.faria@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>João Faria PL</nome>
+              <email>joao.pedro.faria@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC205</codigo>
+          <nome>Investigação Operacional</nome>
+          <docentes>
+            <docente>
+              <nome>José Miguel Gomes Costa Veiga TP</nome>
+              <email>jmcveiga@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>Quitéria Maria Cardoso Teixeira Mourão PL</nome>
+              <email>jmcveiga@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC206</codigo>
+          <nome>Programação 2</nome>
+          <docentes>
+            <docente>
+              <nome>Pedro Miguel do Vale Malheiro Ramos Coutinho TP</nome>
+              <email>p.coutinho@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>Vasco Nuno Barreiro Capitão Miranda</nome>
+              <email>vasco.miranda@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+      </unidadesCurriculares>
+    </semestre>
+    <semestre numero="2">
+      <unidadesCurriculares>
+        <unidadeCurricular>
+          <codigo>UC207</codigo>
+          <nome>Análise e Processamento de Sinal</nome>
+          <docentes>
+            <docente>
+              <nome>TP Sérgio Ivan Lopes</nome>
+              <email>sil@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>PL João Faria</nome>
+              <email>joao.pedro.faria@estg.ipvc.pt</email>
+            </docente>
+          </docentes>
+        </unidadeCurricular>
+        <unidadeCurricular>
+          <codigo>UC208</codigo>
+          <nome>Tópicos Avançados de Redes</nome>
+          <docentes>
+            <docente>
+              <nome>Pedro Pinto TP</nome>
+              <email>pedropinto@estg.ipvc.pt</email>
+            </docente>
+            <docente>
+              <nome>Silvestre Malta PL</nome>
+              <email>smalta@estg.ipvc.pt</email>
+            </docentes>
+          </unidadeCurricular>
+          <unidadeCurricular>
+            <codigo>UC209</codigo>
+            <nome>Redes e Serviços Multimédia</nome>
+            <docentes>
+              <docente>
+                <nome>Pedro Pinto TP</nome>
+                <email>pedropinto@estg.ipvc.pt</email>
+              </docente>
+              <docente>
+                <nome>Pedro Pinto PL</nome>
+                <email>pedropinto@estg.ipvc.pt</email>
+              </docentes>
+            </unidadeCurricular>
+            <unidadeCurricular>
+              <codigo>UC210</codigo>
+              <nome>Criptografia e Segurança nas Comunicações</nome>
+              <docentes>
+                <docente>
+                  <nome>Pedro Pinto TP</nome>
+                  <email>pedropinto@estg.ipvc.pt</email>
+                </docente>
+                <docente>
+                  <nome>PL Hugo Almeida</nome>
+                  <email>halmeida@estg.ipvc.pt</email>
+                </docente>
+              </docentes>
+            </unidadeCurricular>
+            <unidadeCurricular>
+              <codigo>UC211</codigo>
+              <nome>Programação Web</nome>
+              <docentes>
+                <docente>
+                  <nome>TP Marcelo Antunes Fernandes</nome>
+                  <email>fernandesmarcelo@estg.ipvc.pt</email>
+                </docente>
+                <docente>
+                  <nome>Marcelo Antunes Fernandes PL1</nome>
+                  <email>fernandesmarcelo@estg.ipvc.pt</email>
+                </docente>
+                <docente>
+                  <nome>Vasco Nuno Miranda PL2</nome>
+                  <email>vascomiranda@estg.ipvc.pt</email>
+                </docente>
+              </docentes>
+            </unidadeCurricular>
+          </unidadesCurriculares>
+        </semestre>
+      </semestres>
+    </curso>
